@@ -16,13 +16,17 @@ Welcome to the Student Exam Performance Prediction Model repository! This projec
 1. Clone the repository:
 
     ```bash
-    git clone https://github.com/your-username/student-exam-performance.git
+    git clone https://https://github.com/solankiboy939/Student_Exam_performance
     ```
 
 2. Install the required dependencies:
 
     ```bash
     pip install -r requirements.txt
+    pip install tkinter
+    pip install chardet
+    pip install pandas
+    pip install sklearn
     ```
 
 3. Run the model:
