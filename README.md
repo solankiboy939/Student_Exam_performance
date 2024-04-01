@@ -61,5 +61,3 @@ plt.title('Sine Wave')
 plt.xlabel('X-axis')
 plt.ylabel('Y-axis')
 plt.show()
-
-Make sure to replace `your-username`, `Your Name`, and other placeholders with your actual details. Additionally, customize the content as needed to accurately reflect your project.
