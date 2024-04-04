@@ -19,4 +19,4 @@ model = RandomForestClassifier()
 from sklearn.metrics import accuracy_score
 model.fit(x_train_scaler, y_train)
 y_pred = model.predict(x_test_scaler)
-print("Accuracy : ",accuracy_score(y_test, y_pred))
+print("Accuracy : ", accuracy_score(y_test, y_pred))
