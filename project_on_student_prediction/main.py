@@ -1,6 +1,6 @@
 import pandas as pd
 import numpy as np
-data = pd.read_csv("project_on_student_prediction\student_exam_data.csv")
+data = pd.read_csv("student_exam_data.csv")
 data.shape
 data.head()
 data.dtypes
