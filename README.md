@@ -43,7 +43,7 @@ The Student Exam Performance Prediction Model utilizes a combination of supervis
 
 The dataset used for training and testing the model is available in the `data` directory. It contains information about student demographics, study habits, and exam scores.
 
-## ML Animation Code
+## ML Graph Code
 
 Below is a sample code snippet demonstrating how you can visualize the predictions made by the model using matplotlib:
 
